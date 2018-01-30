@@ -1,5 +1,6 @@
 
 # Contest 3 Report
+(It's actually our report of the contest, and the codes in this are not runnable)
 
 Team Members:
 - 103062240 蔡宗宇
@@ -18,7 +19,6 @@ Because of the high score we got, we added some changes based on the model train
 
 - Gradient clipping
 - Beam search
-- Train for more epochs
 
 ### Gradient Clipping
 Like the sample code:
