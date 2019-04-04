@@ -1,6 +1,6 @@
 
 # Contest 3 Report
-(It's actually our report of the contest, and the codes in the jupyter notebooks are just for reviewing)
+(This readme is actually our report of the contest, and the codes in the jupyter notebooks are just for reviewing)
 
 Team Members:
 - 103062240 蔡宗宇
